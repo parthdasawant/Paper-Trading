@@ -14,9 +14,9 @@ Welcome to the Paper Trading for Futures and Options app! 🚀 Practice trading 
 - 💼 Account Management: Create and manage multiple trading accounts with varying balances and portfolios.
 - 📝 Options Strategies: Experiment with different options strategies.
 - 💾 Realm DB Integration: Efficient local data storage for seamless data synchronization.
-- 🙌 Open Source: Join the community, contribute, and enhance the app together!
 - ⚙️ CI/CD Pipeline with CodeMagic
 
+_Note: It is just public repo; original codebase repo is private._
 
 ## 📧 Contact
 Have questions or suggestions? Feel free to connect with me on:
